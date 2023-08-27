@@ -1,8 +1,8 @@
 def text_upper(text):
     """Делает заглавными все буквы"""
-    print(text.upper())
+    return text.upper()
 
 
 def text_title(text):
     """Делает заглавными первые буквы"""
-    print(text.title())
+    return text.title()
